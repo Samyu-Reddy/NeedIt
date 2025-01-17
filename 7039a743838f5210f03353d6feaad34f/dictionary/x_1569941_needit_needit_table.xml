@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="257a6707838f5210f03353d6feaad3d1" label="NeedIt Table" max_length="40" name="x_1569941_needit_needit_table" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Created" mandatory="true" max_length="40" name="created" type="glide_date"/>
+        <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" display="true" label="Cost" mandatory="true" max_length="20" name="cost" type="price"/>
+        <element attributes="edge_encryption_enabled=true" label="Name" mandatory="true" max_length="40" name="name" type="string"/>
+    </element>
+</database>
