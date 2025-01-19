@@ -2,7 +2,7 @@
     <sys_app action="INSERT_OR_UPDATE">
         <active>true</active>
         <can_edit_in_studio>true</can_edit_in_studio>
-        <enforce_license>none</enforce_license>
+        <enforce_license>log</enforce_license>
         <guided_setup_guid/>
         <hide_on_ui>false</hide_on_ui>
         <ide_created>DS</ide_created>
@@ -32,13 +32,13 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-01-17 04:27:50</sys_created_on>
         <sys_id>7039a743838f5210f03353d6feaad34f</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-01-17 04:27:51</sys_updated_on>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>carol.coughlin</sys_updated_by>
+        <sys_updated_on>2025-01-18 23:54:19</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <uninstall_blocked>false</uninstall_blocked>
-        <user_role/>
+        <user_role display_value="x_1569941_needit.occassion_user" name="x_1569941_needit.occassion_user">c35d630b838f5210f03353d6feaad3bc</user_role>
         <vendor/>
         <vendor_prefix/>
         <version>1.0.0</version>
