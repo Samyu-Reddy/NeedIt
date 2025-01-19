@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="257a6707838f5210f03353d6feaad3d1" label="NeedIt Table" max_length="40" name="x_1569941_needit_needit_table" type="collection">
+        <element attributes="encode_utf8=false" label="Requested for" max_length="32" name="u_requested_for" reference="cmdb_multisource_deny_class" type="reference"/>
         <element attributes="edge_encryption_enabled=true" label="Created" mandatory="true" max_length="40" name="created" type="glide_date"/>
         <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" display="true" label="Cost" mandatory="true" max_length="20" name="cost" type="price"/>
         <element attributes="edge_encryption_enabled=true" label="Name" mandatory="true" max_length="40" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="When needed" mandatory="true" max_length="40" name="u_when_needed" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="Choice 1" label="Request type" mandatory="true" max_length="40" name="u_request_type" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Choice 3" sequence="2" value="Choice 3"/>
+                <element inactive_on_update="false" label="Choice 1" sequence="0" value="Choice 1"/>
+                <element inactive_on_update="false" label="Choice 2" sequence="1" value="Choice 2"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="u_requested_for"/>
+        </index>
     </element>
 </database>
