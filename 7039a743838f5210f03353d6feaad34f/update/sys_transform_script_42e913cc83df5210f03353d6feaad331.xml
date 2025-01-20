@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_transform_script">
+    <sys_transform_script action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <map display_value="Import Historic NeedIt Data">2027574083df5210f03353d6feaad335</map>
+        <order>100</order>
+        <script><![CDATA[(function runTransformScript(source, map, log, target /*undefined onStart*/ ) {
+
+	// Add your code here
+
+})(source, map, log, target);]]></script>
+        <sys_class_name>sys_transform_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-20 05:55:05</sys_created_on>
+        <sys_id>42e913cc83df5210f03353d6feaad331</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>onStart</sys_name>
+        <sys_package display_value="NeedIt" source="x_1569941_needit">7039a743838f5210f03353d6feaad34f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">7039a743838f5210f03353d6feaad34f</sys_scope>
+        <sys_update_name>sys_transform_script_42e913cc83df5210f03353d6feaad331</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-20 05:55:05</sys_updated_on>
+        <when>onStart</when>
+    </sys_transform_script>
+    <sys_es_latest_script action="INSERT_OR_UPDATE">
+        <id>42e913cc83df5210f03353d6feaad331</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-20 05:55:05</sys_created_on>
+        <sys_id>c4f9df0c83df5210f03353d6feaad34c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-20 05:55:05</sys_updated_on>
+        <table>sys_transform_script</table>
+        <use_es_latest>true</use_es_latest>
+    </sys_es_latest_script>
+</record_update>

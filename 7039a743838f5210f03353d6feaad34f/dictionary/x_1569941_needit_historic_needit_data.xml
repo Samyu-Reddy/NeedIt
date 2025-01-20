@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="35171bc883df5210f03353d6feaad33c" extends="sys_import_set_row" label="Historic NeedIt Data" max_length="40" name="x_1569941_needit_historic_needit_data" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Availability" label="Availability" max_length="40" name="u_availability" type="string"/>
+        <element attributes="import_attribute_name=Week2" label="Week2" max_length="40" name="u_week2" type="integer"/>
+        <element attributes="import_attribute_name=Week7" label="Week7" max_length="40" name="u_week7" type="integer"/>
+        <element attributes="import_attribute_name=Week3" label="Week3" max_length="40" name="u_week3" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Week5" label="Week5" max_length="40" name="u_week5" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Final" label="Final" max_length="40" name="u_final" type="string"/>
+        <element attributes="import_attribute_name=Week14" label="Week14" max_length="40" name="u_week14" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Username" label="Username" max_length="40" name="u_username" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Last Access" label="Last Access" max_length="40" name="u_last_access" type="glide_date_time"/>
+        <element attributes="import_attribute_name=Week12" label="Week12" max_length="40" name="u_week12" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=First Name" label="First Name" max_length="40" name="u_first_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Last Name" label="Last Name" max_length="40" name="u_last_name" type="string"/>
+        <element attributes="import_attribute_name=Week13" label="Week13" max_length="40" name="u_week13" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Week15" label="Week15" max_length="40" name="u_week15" type="string"/>
+        <element attributes="import_attribute_name=Week9" label="Week9" max_length="40" name="u_week9" type="integer"/>
+        <element attributes="import_attribute_name=Week11" label="Week11" max_length="40" name="u_week11" type="integer"/>
+        <element attributes="import_attribute_name=Week10" label="Week10" max_length="40" name="u_week10" type="integer"/>
+        <element attributes="import_attribute_name=Week6" label="Week6" max_length="40" name="u_week6" type="integer"/>
+        <element attributes="import_attribute_name=Student ID" label="Student ID" max_length="40" name="u_student_id" type="float"/>
+        <element attributes="import_attribute_name=Week4" label="Week4" max_length="40" name="u_week4" type="integer"/>
+        <element attributes="import_attribute_name=Week1" label="Week1" max_length="40" name="u_week1" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=W" label="W" max_length="40" name="u_w" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Week8" label="Week8" max_length="40" name="u_week8" type="string"/>
+    </element>
+</database>
