@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="257a6707838f5210f03353d6feaad3d1" label="NeedIt Table" max_length="40" name="x_1569941_needit_needit_table" type="collection">
+    <element audit="true" db_object_id="257a6707838f5210f03353d6feaad3d1" label="NeedIt Table" max_length="40" name="x_1569941_needit_needit_table" type="collection">
         <element attributes="encode_utf8=false" label="Requested for" max_length="32" name="u_requested_for" reference="cmdb_multisource_deny_class" type="reference"/>
         <element attributes="edge_encryption_enabled=true" label="Created" mandatory="true" max_length="40" name="created" type="glide_date"/>
         <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" display="true" label="Cost" mandatory="true" max_length="20" name="cost" type="price"/>
