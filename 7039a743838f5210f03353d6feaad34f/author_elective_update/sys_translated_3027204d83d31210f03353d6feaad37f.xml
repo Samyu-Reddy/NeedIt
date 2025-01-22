@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_translated">
+    <sys_translated action="DELETE">
+        <element>name</element>
+        <id/>
+        <label>New Tab 3</label>
+        <language>en</language>
+        <name>pa_tabs</name>
+        <sys_class_name>sys_translated</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-22 19:27:48</sys_created_on>
+        <sys_id>3027204d83d31210f03353d6feaad37f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Tab 3</sys_name>
+        <sys_package display_value="NeedIt" source="x_1569941_needit">7039a743838f5210f03353d6feaad34f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">7039a743838f5210f03353d6feaad34f</sys_scope>
+        <sys_update_name>sys_translated_3027204d83d31210f03353d6feaad37f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-22 19:27:48</sys_updated_on>
+        <value>7c27600d83d31210f03353d6feaad3ffNew Tab 3</value>
+    </sys_translated>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">7039a743838f5210f03353d6feaad34f</application>
+        <file_path/>
+        <instance_id>8876fa81eb4f821c3a48f459bad0cd42</instance_id>
+        <instance_name>dev277648</instance_name>
+        <name>sys_translated_3027204d83d31210f03353d6feaad37f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_translated"><sys_translated action="INSERT_OR_UPDATE"><element>name</element><id/><label>New Tab 3</label><language>en</language><name>pa_tabs</name><sys_class_name>sys_translated</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-01-22 19:27:48</sys_created_on><sys_id>3027204d83d31210f03353d6feaad37f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>New Tab 3</sys_name><sys_package display_value="NeedIt" source="x_1569941_needit">7039a743838f5210f03353d6feaad34f</sys_package><sys_policy/><sys_scope display_value="NeedIt">7039a743838f5210f03353d6feaad34f</sys_scope><sys_update_name>sys_translated_3027204d83d31210f03353d6feaad37f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-01-22 19:27:48</sys_updated_on><value>7c27600d83d31210f03353d6feaad3ffNew Tab 3</value></sys_translated></record_update>]]></payload>
+        <payload_hash>-1638912139</payload_hash>
+        <record_name>New Tab 3</record_name>
+        <reverted_from/>
+        <source>9e4758f483131210f03353d6feaad393</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-22 19:27:49</sys_created_on>
+        <sys_id>0127204d83d31210f03353d6feaad381</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1948f7c34c10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-22 19:27:49</sys_updated_on>
+        <type>Translated Name / Field</type>
+        <update_guid>3427204da6d31210ca1757d2b6d1d880</update_guid>
+        <update_guid_history>3427204da6d31210ca1757d2b6d1d880:-1638912139</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-22 19:28:01</sys_created_on>
+        <sys_db_object display_value="" name="sys_translated">sys_translated</sys_db_object>
+        <sys_id>6ce16abc09604b44ae4f0643ab7162c9</sys_id>
+        <sys_metadata>3027204d83d31210f03353d6feaad37f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Tab 3</sys_name>
+        <sys_package display_value="NeedIt" source="x_1569941_needit">7039a743838f5210f03353d6feaad34f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">7039a743838f5210f03353d6feaad34f</sys_scope>
+        <sys_scope_delete display_value="">5d8e9610fada4de2b053b04d3ea507c4</sys_scope_delete>
+        <sys_update_name>sys_translated_3027204d83d31210f03353d6feaad37f</sys_update_name>
+        <sys_update_version display_value="sys_translated_3027204d83d31210f03353d6feaad37f">0127204d83d31210f03353d6feaad381</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-22 19:28:01</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
