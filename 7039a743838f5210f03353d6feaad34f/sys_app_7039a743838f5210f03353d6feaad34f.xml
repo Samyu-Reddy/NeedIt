@@ -19,7 +19,7 @@
         <package_json/>
         <private>false</private>
         <restrict_table_access>false</restrict_table_access>
-        <runtime_access_tracking>permissive</runtime_access_tracking>
+        <runtime_access_tracking>enforcing</runtime_access_tracking>
         <scope>x_1569941_needit</scope>
         <scoped_administration>false</scoped_administration>
         <short_description>I need it</short_description>
@@ -32,13 +32,13 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-01-17 04:27:50</sys_created_on>
         <sys_id>7039a743838f5210f03353d6feaad34f</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_updated_by>carol.coughlin</sys_updated_by>
-        <sys_updated_on>2025-01-18 23:54:19</sys_updated_on>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-24 00:25:50</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <uninstall_blocked>false</uninstall_blocked>
-        <user_role display_value="x_1569941_needit.occassion_user" name="x_1569941_needit.occassion_user">c35d630b838f5210f03353d6feaad3bc</user_role>
+        <user_role display_value="">c35d630b838f5210f03353d6feaad3bc</user_role>
         <vendor/>
         <vendor_prefix/>
         <version>1.0.0</version>
