@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_breakdown_mappings">
+    <pa_breakdown_mappings action="INSERT_OR_UPDATE">
+        <breakdown display_value="Requested for">1314cc7d83d31210f03353d6feaad34e</breakdown>
+        <facts_table>x_1569941_needit_needit_table</facts_table>
+        <field>u_requested_for</field>
+        <script/>
+        <scripted>false</scripted>
+        <sys_class_name>pa_breakdown_mappings</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-25 00:50:14</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>931484bd83d31210f03353d6feaad350</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1314cc7d83d31210f03353d6feaad34e</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_1569941_needit">7039a743838f5210f03353d6feaad34f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">7039a743838f5210f03353d6feaad34f</sys_scope>
+        <sys_update_name>pa_breakdown_mappings_931484bd83d31210f03353d6feaad350</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-25 00:50:14</sys_updated_on>
+    </pa_breakdown_mappings>
+</record_update>
